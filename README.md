@@ -4,7 +4,9 @@ Wasn't able to find .bash_profile, .bashrc in root so I made .bash_profile (touc
 
 >Dotfiles are plain text files that start with a period which makes them hidden for the user.
 
-1. Step 1 
+---
+
+## 1. Step 1 
 
 **Install homebrew**
 ```bash
