@@ -4,6 +4,6 @@ Wasn't able to find .bash_profile, .bashrc in root so I made .bash_profile (touc
 
 >Dotfiles are plain text files that start with a period which makes them hidden for the user.
 
-```bash
+```
 hi
 ```
