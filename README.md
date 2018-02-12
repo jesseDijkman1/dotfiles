@@ -9,5 +9,11 @@ Wasn't able to find .bash_profile, .bashrc in root so I made .bash_profile (touc
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+> Homebrew installs the stuff you need that Apple didn’t.
 **Link:** https://brew.sh/  
-run this in your terminal 
+
+**Install cowsay**
+```bash
+brew install cowsay
+```
+**Install fortune
