@@ -11,9 +11,21 @@ Wasn't able to find .bash_profile, .bashrc in root so I made .bash_profile (touc
 ```
 > Homebrew installs the stuff you need that Apple didn’t.
 **Link:** https://brew.sh/  
+---
 
 **Install cowsay**
 ```bash
 brew install cowsay
 ```
-**Install fortune
+---
+
+**Install fortune**
+```bash
+brew install fortune
+```
+---
+
+**Install lolcat**
+```bash
+brew install lolct
+```
