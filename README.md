@@ -22,7 +22,7 @@ This ```.bash_profile``` dotfile changes the prompt (PS1 and PS2), adds a few al
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 > Homebrew installs the stuff you need that Apple didn’t.
-**Link:** https://brew.sh/  
+[Homebrew website] (https://brew.sh/)  
 
 ### Step 1.2
 
@@ -54,3 +54,11 @@ Creates a directory with the files:
 * .bash_profile
 * .README.md (_This README_)
 
+---
+
+## Sources
+
+* [Linux fun-o-matic](https://gist.github.com/dakull/6615458)
+* [Homebrew](https://brew.sh/)
+* [Bash colors and formatting](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+* [Prompt generator](http://ezprompt.net/)
